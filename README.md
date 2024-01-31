@@ -1,5 +1,4 @@
-# Tu Nombre
-Gonzalo Alessandrini
+# Gonzalo Alessandrini
 
 ## Sobre Mí
 Desarrollador backend especializado
